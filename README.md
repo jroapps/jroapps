@@ -1,4 +1,4 @@
 - Hi, my name is Justin Owens. I have completed a bachelor's degree in IT specializing in web and mobile programming, completed several Udemy courses, and developed several web and mobile applications.
 - I’m interested in becoming a web and mobile developer and learning more about web technologies.
 - I’m currently learning more about React and Ionic as well as Next.js and I continue to hone my HTML, CSS, and JavaScript skills.
-- I can be reached by email at jrowens19@gmail.com or justin@jroapps.tech.
+- I can be reached by email at jrowens19@gmail.com or justin@kingdomappsolutions.tech.
